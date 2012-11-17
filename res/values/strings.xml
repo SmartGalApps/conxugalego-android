@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about">Acerca de...</string>
+    <string name="app_name">ConxuGalego</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancelled">Cancelado</string>
+    <string name="configureNetwork">Configurar rede</string>
+    <string name="connectionError">Houbo un erro na conexión. Téntao un par de veces de novo, normalmente á segunda ou á terceira xa funciona.</string>
+    <string name="diccionarioMarketURL">market://details?id=es.galapps.android.diccionariogalego</string>
+    <string name="errorNoWhitespaces">O infinitivo non pode ter espazos en branco</string>
+    <string name="errorTermination">O infinitivo ten que rematar en -ar, -er ou -ir</string>
+    <string name="errorNotFound">O termo \'%1$s\' non ten forma de verbo.</string>
+    <string name="introData">Introduza o infinitivo dun verbo:</string>
+    <string name="introDataHint">e.g: Falar</string>
+	<string name="loadingData">Conxugando verbo...</string>
+    <string name="noDataConnection">Non hai conexión de datos dispoñible.</string>
+    <string name="noDataConnectionMessage">É necesario dispoñer de conexión de datos para utilizar a aplicación.</string>
+    <string name="noDataDecided">Sen conexión de datos non se poden conxugar verbos.</string>
+    <string name="news_title">Novidades da versión:</string>
+    <string name="news_title_bis">Novas:</string>
+    <string name="news_1_1">- Nova interfaz mellorada\n- Integración coa aplicación DicionarioGalego\n- Permite cambia-lo tamaño do texto (gracias @publikaccion!)\n- Arranxado bug co futuro de subxuntivo (gracias @AmilGZ)\n- Corrixidos outros bugs (gracias a tod@s!!)</string>
+    <string name="news_1_1_1">- Xa se pode mover a aplicación á tarxeta SD</string>
+    <string name="news_1_1_2">- Ó conxugar o verbo, compróbase tamén se este existe ou non (graciñas polo recurso, Marcos García e demáis xente de ProLNat e Cilenis!).</string>
+    <string name="news_1_2">Intégrase con TradutorGalego, a nova aplicación de GalApps: toda a lingua galega no teu peto</string>
+    <string name="news_1_2_1">- Solucionado problema de tamaño coas imaxes das integracións\n- Comprobación de existencia do verbo introducido\n- Solucionados algúns bugs</string>
+    <string name="news_1_2_1_bis">- Actualizados os verbos do VOLGA\n\n- O widget de GalApps xa está dispoñible!!!\nhttps://market.android.com/details?id=es.galapps.android.widget</string>
+    <string name="news_1_2_3">- Base de conxugacións actualizada\n\n- Descarga xa Imos? A guía social máis xenuína de Galicia! https://play.google.com/store/apps/details?id=es.galapps.android.imos</string>
+    <string name="ok">Ok</string>
+    <string name="share">Compartir</string>
+    <string name="shareTitle">ConxuGalego para Android!</string>
+    <string name="tradutorMarketURL">market://details?id=es.galapps.android.tradutorgalego</string>
+    <string name="translate">Traduce \'%1$s\' co:</string>
+    <string name="webURL">http://galapps.es</string>
+    
+    <string name="ar">ar</string>
+    <string name="er">er</string>
+    <string name="ir">ir</string>
+    <string name="arT">ár</string>
+    <string name="erT">ér</string>
+    <string name="irT">ír</string>
+    <string name="Ar">Ar</string>
+    <string name="Er">Er</string>
+    <string name="Ir">Ir</string>
+    <string name="ArT">Ár</string>
+    <string name="ErT">Ér</string>
+    <string name="IrT">Ír</string>
+    
+    <string name="s1">Eu</string>
+    <string name="s2">Ti</string>
+    <string name="s3">El/Ela</string>
+    <string name="p1">Nós</string>
+    <string name="p2">Vós</string>
+    <string name="p3">Eles/Elas</string>
+    <string name="infinitive">Infinitivo</string>
+    <string name="gerund">Xerundio</string>
+    <string name="participe">Participio</string>
+    
+    <string name="ss2">Vostede</string>
+    <string name="pp2">Vostedes</string>
+    
+    <string name="pi">Presente de Indicativo</string>
+    <string name="ei">Pretérito Perfecto de Indicativo</string>
+    <string name="ii">Pretérito Imperfecto de Indicativo</string>
+    <string name="mi">Pret. Pluscuamperfecto de Indicativo</string>
+    <string name="fi">Futuro de Indicativo</string>
+    <string name="ti">Condicional</string>
+    <string name="ps">Presente de Subxuntivo</string>
+    <string name="is">Imperfecto de Subxuntivo</string>
+    <string name="fs">Futuro de Subxuntivo</string>
+    <string name="ip">Infinitivo Conxugado</string>
+    <string name="ia">Imperativo Afirmativo</string>
+    <string name="in">Imperativo Negativo</string>
+    <string name="fn">Formas Nominais</string>
+    
+    <string name="easternEggFuck">foder</string>
+    <string name="easternEggIFuck">si fodo</string>
+    <string name="easternEggYouDontFuck">non fodes</string>
+    <string name="easternEggIWillFuck">si foderei</string>
+    <string name="easternEggYouWontFuck">non foderás</string>
+    
+    <string name="easternEggBuild">construír</string>
+    <string name="easternEggTheyBuild">constrúen (na costa)</string>
+    
+    <string name="easternEggPoisson">envelenar</string>
+    <string name="easternEggTheyPoissoned">envelenaron (o noso mar)</string>
+    
+    <string name="easternEggLive">vivir</string>
+    <string name="easternEggLetsLive">vivamos (como galegos!)</string>
+    
+    <string name="easternEggRain">chover</string>
+    <string name="easternEggItRains">chove (no Grove)</string>
+    
+    <string name="easternEggSnow">nevar</string>
+    <string name="easternEggItSnows">neva (en Manzaneda)</string>
+    
+    <string name="easternEggBe">ser</string>
+    <string name="easternEggYouAre">e ti de quen es?</string>
+    
+    <string name="easternEggDrink">beber</string>
+    <string name="easternEggLetsDrink">bebamos (unha queimada quentiña)</string>
+    
+    <string name="easternEggStare">pasmar</string>
+    <string name="easternEggStared">pasmado (mirando os biosbardos)</string>
+    
+    <string name="easternEggSee">albiscar</string>
+    <string name="easternEggISaw">albisquei (as Illas Cíes ó lonxe)</string>
+    
+    <string name="easternEggSmell">ulir</string>
+    <string name="easternEggHeSmells">ole (a herba mollada)</string>
+    
+    <string name="easternEggLookLike">semellar</string>
+    <string name="easternEggYouLookLike">semellas unha pantasma</string>
+    
+    <string name="easternEggDance">bailar</string>
+    <string name="easternEggWeDance">bailamos unha muñeira?</string>
+    
+    <string name="easternEggStone">empedrar</string>
+    <string name="easternEggHeStones">Santiago empedra</string>
+    
+    <string name="easternEggSail">navegar</string>
+    <string name="easternEggLetsSail">Naveguemos polo canón do Sil</string>
+    
+    <string name="easternEggTravel">viaxar</string>
+    <string name="easternEggYouTravel">viaxa coa morriña</string>
+    
+    <string name="no">non</string>
+    
+    <string name="bugFixesGo">ir</string>
+    <string name="bugFixesGoFix">vaias</string>
+    
+    <string name="naoReconhecido">Não foi reconhecido como verbo. Tente de novo</string>
+    
+    <string name="downloadDiccionarioGalego">Descargar DicionarioGalego</string>
+    <string name="downloadDiccionarioGalegoMessage">Para buscar no dicionario é necesario ter instalada a aplicación DicionarioGalego. Queres descargala?</string>
+    <string name="searchInDictionary">Busca \'%1$s\' no:</string>
+    <string name="wordNotFound">O termo \'%1$s\' non se atopa no dicionario</string>
+    
+    <string name="downloadTradutorGalego">Descargar TradutorGalego</string>
+    <string name="downloadTradutorGalegoMessage">Para traducir o termo é necesario ter instalada a aplicación TradutorGalego. Queres descargala?</string>
+    
+    <string name="about_version">Versión: </string>
+    <string name="about_developed">Aplicación desenvolvida por:</string>
+    <string name="about_dev1">Xurxo Méndez Pérez - @sonxurxo</string>
+    <string name="about_dev1_link">http://blog.sonxurxo.com</string>
+    <string name="about_designed">Aplicación deseñada por:</string>
+    <string name="about_designer">Sabela Barreiro González - @sabelabarreiro</string>
+    <string name="about_designer_link">http://sabelabarreiro.com</string>
+    <string name="about_contact">Contacto:</string>
+    <string name="about_contact_link">http://galapps.es - contacto@galapps.es</string>
+    <string name="about_note">Esta aplicación é software libre e está baseada no software Conshuga \n\n http://gramatica.usc.es/pln/tools/conjugador/conjugador.php</string>
+    
+    <string name="verbDoesNotExist">Aviso: o verbo \'%1s\' non existe, pero de existir, conxugaríase así.</string>
+</resources>
