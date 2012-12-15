@@ -91,7 +91,7 @@ public abstract class SearchConjugationTask extends AsyncTask<String, Void, Stri
 			this.onPostExecuteConnectionError();
 		}
 		VerbalTime[] verbalTimes = this.parse(result);
-		if (verbalTimes == null || verbalTimes.length == 0) {
+		if (verbalTimes == null || verbalTimes.length == 0 || verbalTimes[0] == null) {
 			this.onPostExecuteNotFound();
 		} else {
 			this.onPostExecuteFound(verbalTimes);

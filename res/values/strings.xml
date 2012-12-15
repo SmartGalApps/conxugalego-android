@@ -25,7 +25,8 @@
     <string name="news_1_2">Intégrase con TradutorGalego, a nova aplicación de GalApps: toda a lingua galega no teu peto</string>
     <string name="news_1_2_1">- Solucionado problema de tamaño coas imaxes das integracións\n- Comprobación de existencia do verbo introducido\n- Solucionados algúns bugs</string>
     <string name="news_1_2_1_bis">- Actualizados os verbos do VOLGA\n\n- O widget de GalApps xa está dispoñible!!!\nhttps://market.android.com/details?id=es.galapps.android.widget</string>
-    <string name="news_1_2_3">- Base de conxugacións actualizada\n\n- Descarga xa Imos? A guía social máis xenuína de Galicia! https://play.google.com/store/apps/details?id=es.galapps.android.imos</string>
+    <string name="news_1_2_3">- Base de conxugacións actualizada\n\n- Descarga xa Imos? A guía social máis xenuína de Galicia! https://play.google.com/store/apps/details?id=es.galapps.android.maps.imos</string>
+    <string name="news_1_2_4">- Soluciona un erro con verbos non recoñecidos\n\n- Descarga xa Imos? A guía social máis xenuína de Galicia! https://play.google.com/store/apps/details?id=es.galapps.android.maps.imos</string>
     <string name="ok">Ok</string>
     <string name="share">Compartir</string>
     <string name="shareTitle">ConxuGalego para Android!</string>
